@@ -1,0 +1,21 @@
+안녕하세요
+경기 게임마이스터고 3기생
+여러분 환영합니다!!
+
+저장 단축키 : ctrl + s
+
+git-scm
+
+ctrl + ~ (숫자키 1 왼쪽에 있음)
+git init : 해당 폴더를 깃에서 관리하는 폴더로 초기화하는 명령
+
+git config --global user.name "sungmin0427"
+git config --global user.email "ggm.s220122@ggh.goe.go.kr"
+
+
+git add test.txt
+
+git commit -m "최초의 커밋입니다."
+
+두번쨰로 수정을 해봅시다.
+아무거나 아무거나
