@@ -23,3 +23,18 @@ git commit -m "최초의 커밋입니다."
 git checkout 앞 4 자리 숫자
 git checkout master <= 마스터 브랜치의 최신버전으로 돌아갈래
 
+아무말이나 변경하시고 add commit 을 수행하는데 커밋메시지는 퀴즈해결로
+git log 확인창을 보여주면 됩니다.
+
+vs코드에서 커밋시에는 ctrl + enter를 치면 커밋이 됩니다.
+git remote add origin https://github.com/sungmin0427/ggmgit1.git
+
+git remote -v
+
+git push origin master
+
+파일 하나를 더 만들고 파일 이름은 data.txt로 하고 내용은 아무거나
+그리고 커밋해서 올리고 깃허브에서 올라간걸 보여줏에ㅛ.
+3명까지 플러스점수 부여
+
+git 명령어 모음 *공부 해야됨
